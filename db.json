@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "leinad",
+      "empresa": "circulo magico",
+      "email": "trucosymagia@gmail.com",
+      "telefono": "1565059999",
+      "notas": "ACTUALIZANDO",
+      "id": 1
+    },
+    {
+      "nombre": "Sergio",
+      "empresa": "nicso",
+      "email": "leinadser@gmail.com",
+      "telefono": "1565056666",
+      "notas": "magia",
+      "id": 6
+    },
+    {
+      "nombre": "ARIX",
+      "empresa": "NICSO",
+      "email": "trucosymagia@gmail.com",
+      "telefono": "1565059999",
+      "notas": "LALALALA",
+      "id": 7
+    },
+    {
+      "nombre": "SergioASD",
+      "empresa": "ASDASD",
+      "email": "leinadser@hotmail.com",
+      "telefono": "15650555",
+      "notas": "ASDASD",
+      "id": 8
+    }
+  ]
+}
